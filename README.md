@@ -74,5 +74,5 @@ H/W path                 Device     Class          Description
 ## Current Status
 
 1. 2020-07-03: Basic setup done!
-2. Require external wifi adapter or experiment with AppleIntelKext: Currently not complete [](https://github.com/AppleIntelWifi/adapter)
-3. Experimenting with touchpad lag issue: Need to configure GPIO pinning [](https://github.com/VoodooI2C/VoodooI2C/blob/master/Documentation/GPIO%20Pinning.md) [](https://voodooi2c.github.io/#GPIO%20Pinning/GPIO%20Pinning) [](https://www.reddit.com/r/hackintosh/comments/fryffu/partially_successful_hackintosh_asus_zenbook/)
+2. Require external wifi adapter or experiment with AppleIntelKext: Currently not complete [1](https://github.com/AppleIntelWifi/adapter)
+3. Experimenting with touchpad lag issue: Need to configure GPIO pinning [1](https://github.com/VoodooI2C/VoodooI2C/blob/master/Documentation/GPIO%20Pinning.md) [2](https://voodooi2c.github.io/#GPIO%20Pinning/GPIO%20Pinning) [3](https://www.reddit.com/r/hackintosh/comments/fryffu/partially_successful_hackintosh_asus_zenbook/)
