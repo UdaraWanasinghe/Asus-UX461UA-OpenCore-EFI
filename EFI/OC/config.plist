@@ -217,6 +217,8 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>CQClPg==</data>
+				<key>device-id</key>
+				<data>pT4AAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
