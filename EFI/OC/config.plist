@@ -216,9 +216,9 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>CQClPg==</data>
+				<data>AAAbWQ==</data>
 				<key>device-id</key>
-				<data>kT4AAA==</data>
+				<data>FlkAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -919,17 +919,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02704306J9HWVPJA</string>
+			<string>C02833501QXJP4FAD</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,1</string>
+			<string>MacBookPro15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T53ZCHV29</string>
+			<string>C02X78ZVKGYG</string>
 			<key>SystemUUID</key>
-			<string>EAEC5C28-2298-4894-883D-1A7354095D8D</string>
+			<string>C3DFE890-A743-4F62-96D1-8B1980AD9196</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
